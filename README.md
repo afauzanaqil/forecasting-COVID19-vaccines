@@ -5,32 +5,32 @@ Forecasting COVID-19 Vaccines Trend with Deep Learning Technique
 Please, connect with Google Colab or Jupyter Notebook with provided Dataset 
 
 ## 1. Forecast_COVID-19_Vaccines_ARIMA
-Dataset: Country Vaccinations
-\nList of Code:
+### Dataset: Country Vaccinations
+List of Code:
   1) Exploration Data Analysis including Vaccination Count, Total Vaccination, etc
   2) Forecasting Depend on Highest Vaccine Used
   3) Future Prediction and Comparison
   4) Evaluation Metrics
 
 ## 2. Forecast_COVID-19_Vaccines_LSTM
-Dataset: Country Vaccination, Countries Aggregated
-\nList of Code:
+### Dataset: Country Vaccination, Countries Aggregated
+List of Code:
   1) Exploration on Each Country
   2) Forecasting Depend on Specific Country (e.g. in this experiment take Indonesia)
   3) Future Prediction and Comparison
   4) Evaluation Metrics
 
 ## 3. Forecast_COVID-19_Vaccines_LR
-Dataset: Country Vaccination, Countries Aggregated
-\nList of Code:
+### Dataset: Country Vaccination, Countries Aggregated
+List of Code:
   1) Exploration Data on Total Vaccination Depend on Country, Corelation Heatmap, etc
   2) Prediction Section Depend on Highest Vaccine Used
   3) Prediction over next 30, 60, 90 days
   4) Evaluation Metrics
 
 ## 4. Forecast_COVID-19_Vaccines_Prophet
-Dataset: Country Vaccination, Gapminder Tidy
-\nList of Code:
+### Dataset: Country Vaccination, Gapminder Tidy
+List of Code:
   1) Exploration Data on Classification of Region Vaccine
   2) Forecasting Prediction Depend on People Fully Vaccinated per Hundred
   3) Evaluation Metrics
